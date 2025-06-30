@@ -3,7 +3,7 @@
 Welcome to **Arpita's Autonomous Sourcing Agent** – a powerful, fast, and Gen Z-friendly tool that searches, scores, and connects ML talent with top-tier opportunities.
 
 > ⚙️ Powered by Python + Streamlit + SerpAPI
-> 🔗 Live Demo: Coming soon
+> 🔗 Live Demo: [https://youtu.be/YDY5Q3Fs8PY]
 > 🧑‍💼 Job Role: ML Research Engineer @ Windsurf (Codeium)
 
 ---
